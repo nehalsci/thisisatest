@@ -1,0 +1,4 @@
+sys.out "Hello World"
+sys.leave fn-handle=>
+ sys.out "Leaving..."
+<=
