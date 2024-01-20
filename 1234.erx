@@ -1,0 +1,1 @@
+sys.out "test" if sys.prime is "master"
