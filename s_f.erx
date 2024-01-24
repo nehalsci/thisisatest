@@ -1,0 +1,7 @@
+sign "Hello World" as message
+sign "Leaving..." as leaveMessage
+
+sys.out message
+sys.leave fn-handle=>
+ sys.out leaveMessage
+<=
